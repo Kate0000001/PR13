@@ -17,11 +17,6 @@
         <webdrivermanager.version>6.3.3</webdrivermanager.version>
     </properties>
 
-
-
-
-    
-
     <dependencies>
         <!-- Source: https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
         <dependency>
